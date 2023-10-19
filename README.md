@@ -575,3 +575,6 @@ In this example, we find the maximum of two integers using x64 assembly instruct
 
 ## Conclusion
 Extended assembly allows you to combine the power of low-level assembly with the convenience of high-level programming languages. Understanding the syntax and conventions for different architectures is essential for writing efficient and architecture-specific code. Explore the examples provided in this repository and adapt them to your specific needs.
+
+## :snowman: Author
+Eray Öztürk ([@diffstorm](https://github.com/diffstorm))
